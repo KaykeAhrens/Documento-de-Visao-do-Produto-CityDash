@@ -153,7 +153,9 @@ A CityDash entrega:
 
 #### 1. Informações do Entregador
 
-<img src="./img/Informações sobre o Entregador.png" alt="Informações sobre o Entregador" width="400">
+<img src="./img/Informações sobre o Entregador.png" alt="Informações sobre o Entregador" width="500">
+<img src="./img/Informações sobre o Entregador_2.png" alt="Informações sobre o Entregador" width="500">
+<img src="./img/Informações sobre o Entregador_3.png" alt="Informações sobre o Entregador" width="500">
 
 ---
 
